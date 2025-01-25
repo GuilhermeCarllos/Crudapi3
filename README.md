@@ -1,4 +1,5 @@
 API Futebol
+
 Este projeto é uma API desenvolvida para gerenciamento de competições esportivas. A API permite criar, listar, atualizar e excluir informações sobre partidas, equipes e resultados, promovendo uma organização eficiente das competições. Além disso, fornece endpoints bem documentados para interação com o sistema.
 
 🛠️ Tecnologias Utilizadas
